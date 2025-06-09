@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 기본에 충실한 사람 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 기본적인 것을 중요하게 여기는 고집있는 개발자 입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 기본적인 것을 중요하게 여기고 피드백 수용이 빠른 개발자 입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
